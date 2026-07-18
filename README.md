@@ -86,3 +86,8 @@ These implementations are primarily academic/lab-oriented and may prioritize cla
 ## 📄 License
 
 Add a license section here if you plan to make usage terms explicit (e.g., MIT, Apache-2.0, or academic-only use).
+
+## 👤 Author
+
+**Argha Das**  
+GitHub: [@officialarghadas](https://github.com/officialarghadas)
